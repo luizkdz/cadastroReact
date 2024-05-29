@@ -1,0 +1,12 @@
+.formulario{
+    width:100%;
+    display:flex;
+    
+    justify-content: center;
+}
+
+.campos-form{
+    
+    width:350px;
+}
+
